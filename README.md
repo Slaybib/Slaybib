@@ -1,4 +1,4 @@
-# Hello, I'm [Sadman Labib]! 👋
+# Hello, I'm Sadman Labib! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
 
